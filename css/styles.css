@@ -1,9 +1,12 @@
-
-h1{
-    font-family: 'Overpass Mono', monospace;
-    font-weight: 900;
-    font-size: 3em;
+.nav {
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 1.3em;
     color: #585858;
     letter-spacing: 1px;
-    text-shadow: 2px 2px 3px #777777;
+}
+
+.sketch {
+    width: 100%;
 }

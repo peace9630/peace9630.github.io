@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Overpass|Overpass+Mono');
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+p,
+header,
+footer,
+aside,
+article,
+section blockquote {
+    margin: 0;
+    padding: 0;
+}
 
-*{
+* {
     box-sizing: border-box;
 }
